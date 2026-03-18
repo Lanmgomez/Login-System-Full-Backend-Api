@@ -1,4 +1,4 @@
-# 🚀 ADV Lembrete API
+# 🚀 Fluxo de Login Completo
 
 API REST construída em Go utilizando Gin, MySQL e JWT para autenticação.
 
